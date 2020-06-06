@@ -1,0 +1,10 @@
+{
+  "name": "p2Ts",
+  "main": "./p2.js",
+  "version": "0.0.0",
+  "description": "p2js+.d.ts",
+  "typings": "./p2.d.ts",
+  "author": "hanyeah <hanlidong@yeah.net> (http://hanyeah.com)",
+  "scripts":{
+  }
+}
